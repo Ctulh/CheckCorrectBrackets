@@ -1,0 +1,7 @@
+﻿  snake.cpp
+C:\Users\pilni\source\repos\snake\snake\snake.cpp(205,21): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\pilni\source\repos\snake\snake\snake.cpp(210,21): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\pilni\source\repos\snake\snake\snake.cpp(211,21): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\pilni\source\repos\snake\snake\snake.cpp(264,26): warning C4018:  >: несоответствие типов со знаком и без знака
+C:\Users\pilni\source\repos\snake\snake\snake.cpp(264,26): warning C4018: C:\Users\pilni\source\repos\snake\snake\snake.cpp(47) : warning C4715: tailTB: значение возвращается не при всех путях выполнения
+  snake.vcxproj -> C:\Users\pilni\source\repos\snake\Debug\snake.exe
