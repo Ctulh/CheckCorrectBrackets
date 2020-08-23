@@ -177,7 +177,7 @@ public:
 		{
 			if ((str[i] != '[') && (str[i] != ']') && (str[i] != '(') && (str[i] != ')') && (str[i] != '{') && (str[i] != '}'))
 			{
-				cout << "Вводить можно только скобки";
+				cout << "You can enter only brackets";
 				return false;
 			}
 			return true;
@@ -199,10 +199,10 @@ public:
 			}
 			//cout<<"kolvo: " << f->kolvo()<<endl;
 			if (f->kolvo() > 0) {
-				cout << "nepravilno";
+				cout << "wrong count open and close bracktes";
 			}
 			else {
-				cout << "good";
+				cout << "good count open and close bracktes";
 			}
 		}
 
